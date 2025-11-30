@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "homepage": "https://sauravr09.github.io/Imposter-Game",
+    "homepage": "https://sauravr09.github.io/Imposter-Game/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
