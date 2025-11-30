@@ -1,13 +1,13 @@
 {
   "name": "imposter-game",
+  "homepage": "https://sauravr09.github.io/Imposter-Game/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "homepage": "https://sauravr09.github.io/Imposter-Game/",
     "predeploy": "./deploy.sh",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
